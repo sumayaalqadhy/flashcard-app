@@ -1,0 +1,34 @@
+{
+  "decks": [
+    {
+      "id": 1,
+      "name": "What is React? ",
+      "description": "React is a JavaScript library for building user interfaces on the web. "
+    },
+    {
+      "name": "What are props? ",
+      "description": "An input passed into a React component as an object",
+      "id": 2
+    }
+  ],
+  "cards": [
+    {
+      "front": "Command to run react app ",
+      "back": "npm start",
+      "deckId": 1,
+      "id": 1
+    },
+    {
+      "front": "Command to test react app",
+      "back": "npm test",
+      "deckId": 1,
+      "id": 2
+    },
+    {
+      "front": "Local host for testing React app",
+      "back": "http://localhost:3000",
+      "deckId": 1,
+      "id": 3
+    }
+  ]
+}
